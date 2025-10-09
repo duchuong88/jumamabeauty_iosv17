@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1059287027893",
+    "firebase_url": "https://jumama-39523-default-rtdb.firebaseio.com",
+    "project_id": "jumama-39523",
+    "storage_bucket": "jumama-39523.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059287027893:android:f0f64603027059cadceefc",
+        "android_client_info": {
+          "package_name": "vn.jumama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywISW_1aBp59SakIiiGHtmyxoZE6ZH80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
